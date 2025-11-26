@@ -101,7 +101,7 @@
     "description": "Feedback from clients and colleagues about the quality and professionalism of my work",
     "reviews": [
       {
-        "opinion": "Hegazy's Word , Wainting ....",
+        "opinion": "Hesham Abo AL-Nasr is an exceptional Cyber Security Engineer with a sharp analytical mindset and a deep understanding of threat landscapes. His ability to translate complex security issues into clear, actionable solutions is outstanding. He consistently delivers high-quality work and demonstrates reliability, precision, and professionalism in every task.",
         "name": "Eng. Ahmed Hegazy",
         "role": "Cyber Security Specialist",
         "avatar": "/testimonials/Hegazy.jpeg"
@@ -386,3 +386,4 @@
     }
   }
 }
+
