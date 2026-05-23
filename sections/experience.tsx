@@ -42,12 +42,12 @@ export default function Experience() {
     },    
     
     {
-      key: "BlueSifr",
-      title: t("BlueSifr.title"),
-      company: t("BlueSifr.company"),
-      duration: t("BlueSifr.duration"),
-      location: t("BlueSifr.location"),
-      details: t.raw("BlueSifr.details"),
+      key: "CyberPillar",
+      title: t("CyberPillar.title"),
+      company: t("CyberPillar.company"),
+      duration: t("CyberPillar.duration"),
+      location: t("CyberPillar.location"),
+      details: t.raw("CyberPillar.details"),
     },
 
   ];
