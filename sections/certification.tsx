@@ -41,7 +41,7 @@ const certificatesData: Certificate[] = [
     history: "Achieved December 2025",
     description: "Intermediate-level certification that focuses entirely on Defensive Security or Blue Team operations.",
     tags: ["SOC", "Security Incident Reporting", "Endpoint Security", "DFIR","SIEM","IDS/IPS","Threat Hunting","Incident Handling"],
-    viewUrl: "https://certiport.com/view/aplus", 
+    viewUrl: "https://www.credly.com/badges/eea53ab3-fd78-49ff-b3e4-dac03bd5e878", 
     downloadPath: "/certificates/CompTIA_A+.pdf", 
     color: "from-green-600 to-green-700",
     iconFileName: "box.png",
